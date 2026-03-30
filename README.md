@@ -57,7 +57,7 @@ Key steps:
 
 ---
 
-## 📈 Key Insights
+## 💡 Key Insights
 
 ### 🕒 Time Patterns
 
@@ -84,6 +84,24 @@ Key steps:
 
 * Identified products with the highest combined revenue
 * May be useful for choosing product partners
+
+---
+## 📈 Key Visualizations
+
+### Orders by Hour
+![Orders by Hour Distribution](plots/OrdersByHourDistribution.png)
+
+Peak activity occurs between **12:00 and 15:00**, with these hours accounting for approximately **55% of all orders**.  
+This indicates strong midday purchasing behavior.
+
+---
+
+### Cancellation Rate by Country
+![Cancellation Rate by Country Distribution](plots/CancellationRateByCountryDistribution.png)
+
+The **United States** shows the highest cancellation rate, with up to **40% of orders canceled**.  
+
+A group of countries: including **Czech Republic, Malta, Japan, and Saudi Arabia**, also exhibit relatively high cancellation rates (around **12% on average**), which may indicate regional issues.
 
 ---
 
